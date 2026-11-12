@@ -1,4 +1,4 @@
-# 📱 Android Skaičiuotuvas (Calculator App)
+# 📱 Android Skaičiuotuvas (Calculator App) AI SLOP
 
 [![Android Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org)
