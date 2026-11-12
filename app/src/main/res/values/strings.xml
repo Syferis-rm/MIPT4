@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="standard">Standard</string>
+    <string name="history">History</string>
+    <string name="no_history">No calculations yet</string>
+    <string name="clear_history">Clear History</string>
+    <string name="navigation_open">Open navigation</string>
+    <string name="navigation_close">Close navigation</string>
+
+    <!-- Button labels -->
+    <string name="btn_percent">%</string>
+    <string name="btn_ce">CE</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_backspace">⌫</string>
+    <string name="btn_fraction">¹/x</string>
+    <string name="btn_square">x²</string>
+    <string name="btn_sqrt">²√x</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_negate">⁺/₋</string>
+    <string name="btn_decimal">.</string>
+    <string name="btn_equals">=</string>
+
+    <!-- Memory buttons -->
+    <string name="btn_mc">MC</string>
+    <string name="btn_mr">MR</string>
+    <string name="btn_m_plus">M+</string>
+    <string name="btn_m_minus">M−</string>
+    <string name="btn_ms">MS</string>
+
+    <!-- Error messages -->
+    <string name="error_division_by_zero">Cannot divide by zero</string>
+    <string name="error_invalid_input">Invalid input</string>
+    <string name="error_generic">Error</string>
+</resources>

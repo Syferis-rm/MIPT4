@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_text_size">20sp</dimen>
+    <dimen name="button_text_size_small">16sp</dimen>
+    <dimen name="display_text_size">48sp</dimen>
+    <dimen name="expression_text_size">16sp</dimen>
+    <dimen name="memory_text_size">14sp</dimen>
+    <dimen name="button_margin">1dp</dimen>
+    <dimen name="display_padding">16dp</dimen>
+</resources>
